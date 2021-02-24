@@ -18,8 +18,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
 |[ByteDance/TikTok](https://careers.tiktok.com/position?project=6854152751179303182&type=3&current=1&limit=100)| Remote | Remote allowed in CA/WA/IL/NY/FL/DC/VA/TN/TX/MI. Referral code: VC7FSRM |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | |
-|Cisco| San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta | **Closed** Network Support Engineer, Site Reliability Engineer, Software Engineer Intern positions are available. Able to legally live and work in the country for which you’re applying, without visa support or sponsorship. |
-|Credit Suisse | New York, NY | **Closed**|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Facebook](https://www.facebook.com/careers/jobs/654496918442526/)| Various | |
@@ -27,95 +25,54 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various  ||
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo|
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
-|Morgan Stanley | New York| **Closed** |
 |[Pimco](https://careers.pimco.com/careers/SearchJobs/?listFilterMode=1&794=%5B%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A1262%2C%22name%22%3Anull%7D%7D%5D&794_format=659)| Austin, Newport Beach| Software Engineering, Data Science |
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182&gh_src=PittCSC) | Chicago, New York | |
 |[Jane Street](https://www.janestreet.com/join-jane-street/internships/)| New York | |
-|PDT Partners| New York | **Closed** |
-|Point72 | New York | **Closed** Analyst Academy|
-|Bracebridge Capital|Boston|Closed|
 |[Jump Trading](https://www.jumptrading.com/jobs.html)| Chicago |[Tech Ops](https://www.jumptrading.com/apply.html?gh_jid=1848604), [Production](https://www.jumptrading.com/apply.html?gh_jid=2297249), [FPGA](https://www.jumptrading.com/apply.html?gh_jid=2406074) and other positions available |
-|BNP Paribas| New York | **Closed** |
 |[Belvedere Trading](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0tugum/aa1b?noia=1)| Chicago | |
-|RBC| Jersey City | **Closed** |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/jobs) | Boston | Quantitative Developer, Data Science, Research Systems, Research Associate |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
-|Discover| Houston | **Closed** |
-|Prudential| Newark, NJ | **Closed** |
-|Neeva| Mountain View, CA | **Closed** |
-|Squarepoint Capital | NY, London, Singapore, Montreal | **Closed** |
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply) | San Francisco | |
 |Nuro | Mountain View | Closed Have more internships here  |
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=6666&source=PittCSC)| New York NY | |
-|Zapata Computing | Boston, MA| **Closed**|
-|National Security Agency | Fort Meade, MD | **Closed** |
 |[MealMe](https://www.mealme.ai/careers) |  | Also has Fall internships |
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC | See issues [25](https://github.com/Pitt-CSC/Summer2021-Internships/issues/25) and [30](https://github.com/Pitt-CSC/Summer2021-Internships/issues/30)|
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
-|Optiver| Chicago | **Closed** |
-|BASF| New Jersey | **Closed** |
 |[Moody's Analytics](https://careers.moodys.com/jobs/18781BR-2021-engineering-and-technology-summer-internship-new-york-omaha-san-francisco-waltham-west-chester/) | NY, SF, Omaha, Waltham, West Chester | Engineering and Tech Internship|
 |[Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | [Security Engineering](https://www.amazon.jobs/en/jobs/1229331/security-engineer-internship-summer-2021-us)|
 |[Citrix](https://jobs.citrix.com/job/R22175/Software-Engineer-Intern-2021?utm_campaign=pittcsc&utm_source=pittcsc&utm_medium=organic) | Florida | |
-|Central Intelligence Agency (CIA) | Washington, D.C. | **Closed** Must be US Citizen (Dual-Citizens are eligible) |
-| Bank of America| US & Canada | **Closed** |
 |[Honeywell](https://careers.honeywell.com/us/en/job/HONEUSREQ238487EXTERNALENUS/Computer-Software-Engineer-Computer-Science-Summer-2021-Intern-Co-Op?utm_source=PittCSC)| Various | |
 |[Palantir](https://jobs.lever.co/palantir/72018fcf-e777-4696-956c-a764966a4c75/apply) | Various | Forward Deployed [here](https://jobs.lever.co/palantir/a580fa16-06b0-4e4d-a597-60b7cd5b7ea1) |
-|Chick-fil-a | Atlanta | **Closed**|
 |[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214472?t=PittCSC) | Menlo Park, CA | More [positions](https://boards.greenhouse.io/robinhood?gh_src=PittCSC) here, two application max |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/QUALUS87166EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Provo-UT?utm_source=PittCSC) | Seattle, Provo | [Seattle](https://www.qualtrics.com/careers/us/en/job/QUALUS151240EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Seattle-WA?utm_source=PittCSC)  |
-|Scale AI| San Francisco, CA | **Closed** |
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | International students on F-1 Visa may not be considered |
-|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4867820002) | Pittsburgh, PA | **Duolingo Thrive is closed** |
-|Red Ventures| Charlotte, NC | **Closed** |
-|Texas Instruments | Dallas, TX | **Closed** |
 |[Los Alamos National Laboratory](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1759536200&retainAM=N&addBreadCrumb=RP&p_svid=81425&p_spid=3628350)| Los Alamos, NM| |
 |[Coursera](https://jobs.lever.co/coursera/361ef85d-9b6e-4225-9e05-809adb33eceb) | Remote - USA | |
 |[Cisco Meraki](https://jobs.cisco.com/jobs/SearchJobs/2021%20Meraki?listFilterMode=1&21178=%5B169482%5D&21178_format=6020) | Chicago, IL; San Francisco | |
-|UnifyID | Redwood City, CA | **Closed** |
-|Capital One| Various | **Closed** |
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/2021/United%20States/694/1/2/6252001/39x76/-98x5/50/2) | Various | US Citizenship required |
 |General Mills| Minneapolis, MN | |
 |[Valkyrie Trading](https://jobs.lever.co/valkyrietrading/2da1578a-7a20-41db-83bd-cb16e4e8a112/apply) | Chicago, IL | |
 |[IBM](https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en) | Various | [Backend position here](https://careers.ibm.com/ShowJob/Id/961980/Back-End-Developer-Summer-Intern-2021/?lang=en)|
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007833) | New York, Pittsburgh, Jersey City | |
-|Motorola | Schaumburg, IL | **Closed** |
-|Cargill| Hopkins, MN | **Closed** |
 |[Dropbox](https://www.dropbox.com/jobs/listing/2265990?gh_jid=2265990) | San Francisco | |
-|Platform9| Mountain View | **Closed** |
-|HubSpot | Cambridge, MA | **Closed** |
-|Stripe | Seattle, NYC, San Francisco | **Closed** |
-|Zipline | San Francisco | **Closed** |
 |[Citi](https://citi.avature.net/careers/ProjectDetail/Dallas-Texas-United-States-NAM-Global-Consumer-Technology-Summer-Analyst-Dallas-North-America-2021-/10675) | North America | |
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435)| San Diego | Also available [Hardware Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Hardware-Engineering-Internship--Summer-2021-_3001376), [Systems Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Systems-Engineering-Internship--Summer-2021-_3001377), and [Embedded Software Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Embedded-Software-Engineering-Internship--Summer-2021-_3001371) |
 |[MLH](https://fellowship.mlh.io/) | Various Remote | [Explorer](https://fellowship.mlh.io/programs/explorer) and [Open Source](https://fellowship.mlh.io/programs/open-source) Fellowships, Fall, Spring, Summer available (UPDATE: Externships now available for Fall, Spring and Summer! Refer [MLH externships](https://fellowship.mlh.io/programs/externship) site for more info) & [MLH Coach](https://mlh.io/coaches) positons now available (optional if you want to help others)|
 |[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | Open to all students |
-|Vail Systems| Chicago, Illinois | **Closed** |
-|Medtronic| Minneapolis, Minnesota | **Closed** |
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194&gh_src=PittCSC)| San Francisco, CA | |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | [Software Engineer](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2021-Intern---Software-Engineer--MuleSoft_JR72336-1), [Software Engineer(Security)](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2021-Intern-Software-Engineer--Security-_JR70210), [Software Engineer, Business Technology(IT)](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/Texas---Dallas/Summer-2021-Intern---Software-Engineer--Business-Technology--IT-_JR74858-2) and other intern positions are available. Winter internships are available too. |
-|Workiva| Scottsdale, AZ |**Closed** Must be authorized to work in the United States and not require sponsorship now or in the future |
 |[Figma](https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e/apply) | San Francisco, CA | |
-|Patreon | San Francisco, CA | **Closed** |
 |[Kohl's](https://careers.kohls.com/internships/technology-jobs#software-engineer-intern) | Milwaukee, Milpitas | Various positions|
 |[Zillow](https://careers.zillowgroup.com/ShowJob/JobId/458252/SoftwareDevelopmentEngineerIntern)| Irvine, New York, Seattle | |
-|McKinsey| Boston, Chicago, New Jersey, NYC, SF| **Closed** |
 |[Microsoft](https://careers.microsoft.com/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) | Various | [PM](https://careers.microsoft.com/us/en/job/870958/Internship-Opportunities-for-Students-Program-Manager) , [Explore](https://careers.microsoft.com/us/en/job/870951/Internship-Opportunities-for-Students-Explore-Program) , [Garage SWE](https://careers.microsoft.com/students/us/en/job/870952/Internship-Opportunities-for-Students-Garage-Software-Engineer)
 |[NetApp](https://jobs.netapp.com/job/Sunnyvale-Intern-Software-&-QA-Engineer-CA-94089/668051300/) | Various | [Advanced Technology Group](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Advanced-Technology-Group-1-NC-27709/667086400/) and [IT](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Information-Technology-NC-27709/667086100/) |
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002?gh_src=PittCSC)| Seattle, Irvine, San Francisco | |
-|Snap| Los Angeles, Seattle, San Francisco, New York, Mountain View | **Closed**|
-|Benchling| San Fran, Boston | **Closed** |
 |[Target](https://jobs.target.com/job/-/-/1118/17057382)| Minneapolis | |
-|[Emerson]| Austin,TX| **Closed** |
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206/apply) | Mountain View | |
-|Tableau | Seattle, Palo Alto | **Closed** |
-|Qumulo| Seattle | **Closed** |
 |[Intuitive](https://careers.intuitive.com/jobs/201638?lang=en-us)| Sunnyvale | |
-|Fidelity Investments | Jersey City, NJ; Boston, MA; Merrimack, NH; Smithfield, RI; Durham, NC; and Westlake, TX | **Closed** |
 |[General Electric](https://jobs.gecareers.com/global/en/job/3495072/Digital-Technology-Intern-2021)| Various| |
 |[Raytheon](https://jobs.rtx.com/search-jobs) | Various | Click on Filter > Job Type > Intern, US Citizenship required|
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/0438200814?lang=en-us) | Horsham, Pennsylvania; West Chester, Pennsylvania; Various | Permanent Work Authorization in the US required|
-|ARM| Austin, TX; San Jose, CA; Boston, MA | Closed |
 |[Amazon Web Services](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category=software-development&business_category[]=amazon-web-services&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=2021&city=&country=&region=&county=&query_options=&) | Virginia | Requires US Citizenship and Clearance. |
 |[SurveyMonkey](https://www.surveymonkey.com/careers/2466488-data-science-intern-summer-2021/)| San Mateo, CA | |
 |[Tesla](https://www.tesla.com/careers/job/software-fullstackengineeringinternshipspringand-orsummer2021-68849)|Fremont, Palo Alto, Bellevue, others| More [here](https://www.tesla.com/careers/search#/?keyword=intern&department=3&region=5) |
@@ -123,22 +80,16 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading, SWE [here](https://careers.sig.com/job/SUSQA004Y4957/Software-Engineering-Internship-Program) |
 |Stonebranch | Alpharetta, GA | |
 |[Mathworks](https://www.mathworks.com/company/jobs/opportunities/10071-edg-intern-bachelor-computer-science-majors?keywords=intern&location%5B%5D=US) | Natick, MA | |
-|Samsara | San Francisco, Atlanta | **Closed** |
-|Walmart| Bentonville, AR | **Closed** |
 |[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=310) | Chicago, IL | |
 |[Coupang](https://boards.greenhouse.io/coupang/jobs/2080981) | Mountain View, California | |
-|Coinbase | Remote  | **Closed** |
-|Toyota | Plano, TX | **Closed**|
 |[Verkada](https://jobs.lever.co/verkada/fcfb0cde-9e89-4be9-8df5-e35e11430297/apply) | San Mateo, CA | Front End, [Back End](https://jobs.lever.co/verkada/fcfb0cde-9e89-4be9-8df5-e35e11430297), [Comp Vision](https://jobs.lever.co/verkada/be4d736c-9319-4223-b9f2-9f892bf67d85), [Embedded Systems](https://jobs.lever.co/verkada/170f77fc-25c2-4594-8844-6e89c1f0ef91), [Mobile Engineering](https://jobs.lever.co/verkada/c58803d1-33ef-44af-a519-921b19e7691f)|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/Software-Intern--GPU-Communication-Libraries_JR1934897)| Austin, Westford, Redmond, Champaign, Santa Clara | More [here](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/10/refreshFacet/318c8bb6f553100021d223d9780d30be)|
 |[Plaid](https://plaid.com/job/?id=4e0c92e3-4c27-44a1-8d9d-be4fa18f987c) | San Fran |  Apply by API |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84150) | New York |   |
 |[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineering-Internship---US-Campus_R7759) | NY, Chicago, Boston, Norwalk, Austin | |
 |[Asana](https://asana.com/jobs/apply/2256911/intern--software-engineering-) | SF, NYC | |
-|MasterCard | NYC, Arlington | **Closed** Open to students enrolled in a bachelor’s degree program | 
 |[XPO Logistics](https://jobs.xpo.com/US/job/Portland-Software-Development-Intern-OR-97209/669686500/?utm_source=PittCSC) | Portland, OR | |
 |[eBay](https://jobs.ebayinc.com/job/-/-/403/1006890272?source=PittCSC)| San Jose, Austin, Bellevue, New York, Portland | |
-|Dell| Round Rock, Austin, TX | **Closed** In some positions, applicants must be legally authorized to work in the United States. |
 |[Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Epic-Games-Programming-Internships_R2792-2)| Cary, NC | |
 |[Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | Ocient is building the world's largest database. Ocient is looking for Software Engineers and Software Engineering Interns. |
 |[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f/apply)| Seattle, Irvine |  Perception Intern [here](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135); U.S. Person status may be required|
@@ -152,36 +103,26 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Yext](https://boards.greenhouse.io/yext/jobs/2301556) | NYC, DC | |
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4698742002/software-engineer-intern) | Charlottesville, Columbus, Durham | |
 |[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284652)| Maryland | Cyber Engineering, [Software Engineering](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1019418) |
-|Playstation | Various in CA | **Closed** More positions here |
 |[ServiceNow](https://jobs.jobvite.com/careers/servicenow/job/oFfedfw5?__jvsd=PittCSC) | Various | |
 |[Stryker](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-Internship-2021-Computer-Science--Computer-Engineering--Software-Michigan_R436511-1)| Michigan |Must be permanent resident of the U.S. or U.S. citizen |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Irvine-CA/Software-Engineer-Internship--Summer-2021-_R1556)| Irvine, Kirkland, Sunnyvale, Minneapolis| |
 |[Osisoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2021_R002670) | San Leandro, Scottsdale, Philadelphia, Johnson City| |
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265934)| Boston, NYC | |
-|Tanium| Remote, Morrisville, NC | **Closed**|
 |[Lyft](https://boards.greenhouse.io/lyft/jobs/4832208002?gh_jid=4832208002)| San Francisco, CA | |
 |[Nutanix](https://nutanix.eightfold.ai/careers?pid=1637065&domain=nutanix.com)| San Jose, CA | |
 |[Etsy](https://www.etsy.com/careers/job/743999718641018) | Brooklyn, NY | |
 |[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/4792595002) | NYC | |
-|Ginkgo Bioworks | Boston, MA | **Closed** |
-|Home Depot| Atlanta, GA | **Closed** |
 |[Lowes](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25239&siteid=5014&jobid=6674182#jobDetails=6674182_5014) | Mooresville| |
-|Path AI | Boston, MA | **Closed** |
-|Splunk | San Fran | **Closed** Software Engineering here |
 |[Washington Post](https://docs.google.com/forms/d/e/1FAIpQLScwbYDTH-tE5yobarHzuYBqCGRVg6CTn01KCFaM9mG-4Ty_kA/viewform) | DC | Publishing Tools Internship [here](https://docs.google.com/forms/d/e/1FAIpQLSck3QDvOkBap9sbpVWaDDTw2UfzCPHq_Cx7bfySRtoMeH6-jg/viewform)|
 |[Gatik](https://jobs.lever.co/gatik/363a3a47-a59c-49a3-9007-b1389db38969/apply)|Palo Alto, CA | |
-|Cockroach Labs| NYC | **Closed** |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2311474)|San Mateo, CA | |
 |Domo| American Fork, UT | |
 |[Statefarm](https://findjobs.statefarm.com/ShowJob/Id/460685/Intern%20%20%20Technology) | Various | |
 |[Samsung](https://sec.wd3.myworkdayjobs.com/Samsung_Careers) | Austin, San Jose | Software Engineering Position **Closed** but other positions are still available |
 |[Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55588) | Seattle, WA | |
 |[Fivestars](https://www.fivestars.com/careers/?gh_jid=2324334) | SF | |
-|PeachPay | Ames, Iowa | Closed |
-|Plexus | Raleigh, NC | **Closed** |
 |[Goodyear](https://jobs.goodyear.com/job/San-Francisco-Global-Technology-Software-Engineering-Intern%2C-New-Ventures-Group-San-Francisco%2C-CA-CA-94101/673042000/?feedId=235900&utm_source=PittCSC) | SF | |
 |[KnowBe4](https://www.knowbe4.com/jobs?gh_jid=4858556002) | Clearwater, Florida | | 
-|Gap | SF | **Closed** |
 |[American Express](https://jobs.americanexpress.com/jobs/20006515?lang=en-us&previousLocale=en-US) | Various | |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oyymdfwp) | Austin, TX | |
 |Blackstone | NYC | |
@@ -190,7 +131,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Verizon](https://www.verizon.com/about/work/jobs/5558860-software-development-summer-2021-internship) | San Jose, CA| Requires authorization to work in the U.S. without restrictions or need for future sponsorship|
 |[Nike](https://jobs.nike.com/job/URSRCTECHUI21?from=PittCSC) | Beaverton, Oregon | |
 |[Uber](https://www.uber.com/global/en/careers/list/62848/) | SF | |
-|iCims | Holmdel, NJ | **Closed** |
 |[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780022002) | SF | |
 |[Twilio](https://boards.greenhouse.io/twilio)| San Francisco, CA; Denver, CO | |
 |[C3.ai](https://boards.greenhouse.io/c3iot/jobs/4086849002?gh_src=PittCSC) | Redwood City, CA | |
@@ -202,7 +142,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Garmin](https://careers-us.garmin.com/us/en/job/200017Q/Software-Engineer-Intern-Brea-CA-Summer-2021) | Brea, CA | |
 |[MemSQL](https://boards.greenhouse.io/singlestore/jobs/2328598)| SF, Seattle | |
 |[ASML](https://www.asml.com/en/careers/find-your-job/1/8/6/software-engineering-intern-san-joseasml-req18667?utm_source=PittCSC)| San Jose | |
-|Sezzle| Minneapolis, MN | **Closed** |
 |[Activision](https://careers.activision.com/job/ACPUUSR003077EXTERNAL/Web-Development-Intern?utm_source=pittcsc)| Santa Monica, CA;Vancouver, BC | [Canada Position](https://careers.activision.com/job/ACPUUSR003096EXTERNAL/Software-Development-Internship?utm_source=pittcsc) |
 |[Veeva](https://jobs.lever.co/veeva/066ef3bb-a24d-4c56-8f2b-2f3d1fcfafc8) | Pleasanton, CA | |
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/4867821002?gh_jid=4867821002) | Various |Must be a U.S. citizen, lawful permanent resident of the U.S., protected individual, or eligible to obtain the required authorizations from the U.S. Department of State|
@@ -212,24 +151,16 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cognite](https://apply.workable.com/cognite/j/577B0208A9/) | Houston | |
 |[Slack](https://slack.com/careers/2322106/software-engineering-internship) | Remote | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2333469/) | SF | |
-|Waymo | Mtn View | **Closed** Trucking pos here | 
-|Pure Storage | Mountain View | **Closed** Software Engineering |
-|New Relic | Portland | **Closed** |
 |[Kensho](https://jobs.lever.co/kensho/6d510556-b646-4af6-aad5-227625d9727d/apply) | Cambridge | [Front End](https://jobs.lever.co/kensho/312ae842-2798-4021-b76f-33e11c504d71), [Query Infrastructure](https://jobs.lever.co/kensho/f1d84d9a-c754-4f7f-97d4-b87443fb2e60) |
-|Lucid | Salt Lake City ,UT | **Closed** |
-|Addepar | Remote | **Closed** |
 | Deliverr | SF | |
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/5765) | Carlsbad, CA | Must be a U.S. citizen, lawful permanent resident of the U.S., protected individual, or eligible to obtain the required authorizations from the U.S. Department of State |
 |[Barclays](https://joinus.barclays/americas/internships/developer-summer-analyst) | Whippany, NJ | More positions [here](https://barclays.taleo.net/careersection/12/jobsearch.ftl?lang=en_GB)|
 |[Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5/apply) | SF | |
 |[Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4130) | Schaumberg, IL | Data Science [here](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4175) | |
-|Pinterest | San Francisco, Palo Alto, Seattle, Toronto | **Closed** | 
 |[Esri](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003) | Redlands Vienna, VA Denver Arlington Portland (Maine and Oregon) | |
 |NextDoor | SF | |
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/2315797) | SF, Denver, NYC | |
 |[Dick's](https://www.dickssportinggoods.jobs/job-search-results/?category[]=Students%20%26%20Recent%20Grads) | Pittsburgh, Nationwide | Data Science, Software Engineering, UX Design. Prefer juniors. |
-|SK Hynix| San Jose | **Closed** |
-|AutoDesk| California, Michigan, Massachusetts, Oregon | **Closed** |
 |[Strava](https://boards.greenhouse.io/strava/jobs/2336808) | San Francisco | iOS, [Android](https://boards.greenhouse.io/strava/jobs/2336822), [Platform](https://boards.greenhouse.io/strava/jobs/2336973), [Server](https://boards.greenhouse.io/strava/jobs/2336895) positions | |
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/2337878/software-engineer-intern-los-angeles-usa)| Los Angeles | More positions [here](https://www.riotgames.com/en/university-programs) |
 |[GoDaddy](https://boards.greenhouse.io/eventsandinterns)| Kirkland, WA | [SDE](https://boards.greenhouse.io/eventsandinterns/jobs/4180310003), [PM](https://boards.greenhouse.io/eventsandinterns/jobs/4176462003), [UX](https://boards.greenhouse.io/eventsandinterns/jobs/4168260003), [Business Analytics](https://boards.greenhouse.io/eventsandinterns/jobs/4276354003) and other positions |
@@ -237,25 +168,17 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Indeed](https://indeed.avature.net/SWEintern) | Various | |
 |[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2021/19231) |  Minneapolis, Madison, Rochester,MN | Must be eligible to work in the United States without visa sponsorship |
 |Credera | Various | |
-|Toast| Boston, MA | Closed |
-|Spotify | New York, Boston | **Closed** |
 |[Smith Micro](https://jobs.lever.co/smithmicro/47b315f1-e798-4139-abd1-35da544a02b3/apply)|Pittsburgh, PA|Mobile Applications, Enterprise and Consumer software|
 |[Cadence](https://www.cadence.com/en_US/home/company/careers/interns-and-new-grads.html)| San Jose CA, Pittsburgh PA, Boston MA| Software and Electrical Engineering services| 
-|Ford| Dearborn, MI| **Closed** | 
-|ThoughtSpot | Sunnyvale, CA | **Closed** |
 |[Blizzard](https://careers.blizzard.com/global/en/job/R003243/Software-Engineering-Internship) | Irvine, CA | [SRE](https://careers.blizzard.com/global/en/job/R003244/Site-Reliability-Engineering-Internship), [Data Science](https://careers.blizzard.com/global/en/job/R003193/Data-Science-Internship), [Security](https://careers.blizzard.com/global/en/job/R003289/Security-Engineering-Internship), [Game Dev](https://careers.blizzard.com/global/en/job/R003252/Game-Development-Engineering-Internship) |
 |[Spectrum](https://jobs.spectrum.com/job/greenwood-village/2021-summer-intern-engineering/4673/17260817) | Greenwood Village, CO | |
-|Code42 | Minneapolis, MN | **Closed** |
 |[KeepTruckin](https://boards.greenhouse.io/keeptruckin/jobs/4877625002) | SF, CA | |
 |[Zynga](https://jobs.jobvite.com/zynga/job/o73vdfwC) | SF, CA | |
 |[Google](https://careers.google.com/jobs/results/93981708417671878-software-engineering-intern-bachelors-summer-2021/)| Various | [STEP (First Year)](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021/) [STEP (Second Year)](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021/)|
 |[Better.com](https://boards.greenhouse.io/better/jobs/2346546) | NYC | |
-|Chan Zuckerberg Initiative| Redwood City, CA | **Closed** |
-|Sleep Number | San Jose, CA | **Closed** |
 |[Blend](https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7/apply) | SF, CA | |
 |[Wealthfront](https://jobs.lever.co/wealthfront/0603035b-4d32-4306-8592-bd8df7ddbafc/apply) | Palo Alto, CA | |
 |[Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern_2001165) | Santa Clara | |
-|Zoox| Foster City, CA | **Closed** |
 |[DrChrono](https://jobs.lever.co/drchrono/21582edc-3f0d-47fd-981b-9dbe7a07939a/) | Sunnyvale, CA | |
 |[Intel](https://jobs.intel.com/page/show/search-results#q=2021&t=Jobs&sort=relevancy&layout=table&f:@countryfullname=[United%20States]&f:@employeetype=[Intern%2FStudent]) | Phoenix, AZ | Must be U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government.|
 |[Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/2348769?gh_jid=2348769) | Austin, Champaign, Kirkland, San Fran | |
@@ -265,20 +188,15 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Pocket Gems](https://boards.greenhouse.io/pocketgems/jobs/2334655) | SF | |
 |[Kiva](https://boards.greenhouse.io/kivaorg/jobs/2349814?gh_jid=2349814)| Remote | |
 |[Chewy](https://www.chewy.com/jobs/position/2353210?gh_jid=2353210&gh_jid=2353210)| Boston, MA | |
-|Convoy| Seattle, WA | **Closed** |
 |[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.|
 |[Teamworthy Ventures](https://boards.greenhouse.io/teamworthy/jobs/4163159003) | NYC | |
 |[Thomson Reuters](https://jobs.thomsonreuters.com/ListJobs/All/Search/jobtitle/2021/)| Eagan-Minnesota-United States of America | No visa-sponsorships available. DevOps, Software Engineering, Database and other positions are available. |
-|Redfin| Seattle, Frisco, San Francisco | Closed |
 |[Poshmark](https://boards.greenhouse.io/poshmark/jobs/2354571) | Redwood City | Android, [iOS](https://boards.greenhouse.io/poshmark/jobs/2350507), [Big Data](https://boards.greenhouse.io/poshmark/jobs/2351485), [Infrastructure](https://boards.greenhouse.io/poshmark/jobs/2350447), [Full Stack](https://boards.greenhouse.io/poshmark/jobs/2349686), [DevOps](https://boards.greenhouse.io/poshmark/jobs/2350481), [Web App](https://boards.greenhouse.io/poshmark/jobs/2351446) |
 |[Vatic Labs](http://www.vaticlabs.ai/careers/2341264/?gh_jid=2341264) | NYC | |
 |[Cerner](https://careers.cerner.com/job/67087BR) | Kansas City, MO | |
 |[Real-Time Innovations](https://boards.greenhouse.io/rti/jobs/2337803)| Sunnyvale, CA;Denver,CO | |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Development-Intern--Adobe-Sign-Enterprise_R100956-1)|San Jose | |
 |[Snowflake](https://careers.snowflake.com/us/en/job/4867943002/Software-Engineer-Intern-Front-End-Summer-2021) | San Mateo, CA | [Core Engineering](https://careers.snowflake.com/us/en/job/4889064002/Software-Engineer-Intern-Core-Engineering-Summer-2021), [Infrastructure Automation](https://careers.snowflake.com/us/en/job/4867934002/Software-Engineer-Intern-Infrastructure-Automation-Summer-2021) |
-|Helbiz| New York City, NY | **Closed** |
-|Oshkosh Corporation| Greencastle, PA ; Hagerstown, MD | **Closed** Software Engineering, IT Internship|
-|Duck Creek Technologies| Basking Ridge, NJ | **Closed** |
 |[Chemours](https://chemours.wd5.myworkdayjobs.com/Chemours/job/US---DE---Wilmington-Headquarters/Software-Developer-Summer-Intern_JR5427)| Wilmington, DE |Candidates who now or in the future require sponsorship for employment (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status) are ineligible |
 |[Audible](https://www.amazon.jobs/en/jobs/1274977/audible-software-development-engineer-internship) | Trenton, NJ | |
 |[EA](https://ea.gr8people.com/jobs/162586/summer-2021-software-engineering-internship-bs-ms) | Various | |
